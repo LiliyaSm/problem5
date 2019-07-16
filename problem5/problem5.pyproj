@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>97fdf275-fcf2-484f-9f94-a7844078b428</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>problem5.py</StartupFile>
+    <StartupFile>ps6.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
